@@ -1,0 +1,16 @@
+.header{
+  background-color: rgb(65, 65, 235);
+}
+body{
+  background-color: rgb(235, 246, 249);
+}
+.side-nav{
+  background-color: white;
+  height: 800px;
+  border-right: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+}
+.list-group-item{
+  background-color: transparent;
+  color:black;
+}
